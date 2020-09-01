@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyFirstKotlinScratch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Main Fragment</string>
+    <string name="fragment_lista_tragos">Fragment Lista Tragos</string>
+    <string name="fragment_detalle_tragos">Fragment Detalle tragos</string>
 </resources>
